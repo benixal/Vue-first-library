@@ -1,24 +1,5 @@
-# myfirstlib
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Vue first library
+Publish Vue.js component as library on npmjs
+## watch on youtube [https://www.youtube.com/watch?v=uKZhLwSOZzs](https://www.youtube.com/watch?v=uKZhLwSOZzs)
+## Live demo on [stackblitz](https://stackblitz.com/edit/vue-ljp8ma)
+## Published on npmjs.com [stackblitz](https://www.npmjs.com/package/benixalfirstlib)
